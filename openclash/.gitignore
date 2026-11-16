@@ -1,5 +1,0 @@
-residential.yaml
-residential.local.*
-*.bak
-*.log
-__pycache__/
