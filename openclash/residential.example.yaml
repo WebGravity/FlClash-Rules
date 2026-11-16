@@ -1,0 +1,7 @@
+# 复制到路由器 /etc/openclash/custom/residential.yaml 后填写。
+# 此文件仅为模板；请勿把填写后的文件上传到 GitHub。
+server: "CHANGE_ME"
+port: 1080
+username: "CHANGE_ME"
+password: "CHANGE_ME"
+udp: true
